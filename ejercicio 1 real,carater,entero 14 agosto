@@ -11,7 +11,7 @@ inicio
 	llamar nueva_linea
 	escriba "p para el analisis"
 	llamar nueva_linea
-	escriba " caracter distinto a r s p n b p‡ra terminar"
+	escriba " caracter distinto a r s p n b p√†ra terminar"
 	llamar nueva_linea  
 	escriba "n para el nombre"
 	llamar nueva_linea
