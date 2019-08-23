@@ -1,0 +1,41 @@
+// rabajo en clase vectores //
+
+arreglo[2,4] de cadena [12]
+entero fila,columna
+inicio
+    nombre[1,1]<-"aniceta"
+    nombre[1,2]<-"romelia"
+    nombre[1,3]<-"mirolindo" 
+    nombre[1,4]<-"rosario"
+    nombre[2,1]<-"temisticles"
+    nombre[2,2]<-"zoraines"
+    nombre[2,3]<-"paulino"
+    nombre[2,4]<-"cardena"
+
+arreglo [9] de cadena [10]cifra
+entero n
+inicio
+   cifra [1] <-"8"
+   cifra [3] <-"7"
+   cifra [7] <-"1"
+   cifra [5] <-"6 tu mani"
+   cifra [2] <-"30"
+   cifra [4] <-"24"
+   cifra [6] <-"0"
+   cifra [8] <-"5"
+   cifra [9] <-"es tarde ya pára jugar"
+   para n<-1 hasta 9 haga
+   escriba cifra [n]
+   llamar nueva_linea
+   fin para
+ fin
+    para n<-1 hasta 9 haga
+   lea cifra [n]
+   llamar nueva_linea
+ fin para
+ 
+  para n<-1 hasta 9 haga
+    escriba cifra [n]
+   llamar nueva_linea
+ fin para
+fin
