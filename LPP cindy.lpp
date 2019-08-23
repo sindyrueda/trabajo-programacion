@@ -1,0 +1,83 @@
+      
+      //trabajo en clase lpp 22 de agosto//
+      
+      
+      entero n
+      caracter x
+inicio
+      n <-92
+      x <-car (n)
+     escriba "el caracter ascii de" n,"es:"x,
+     llamar color_fondo (10)
+     llamar nueva_linea
+     lea (n)
+fin
+        entero n
+        caracter x
+inicio
+
+      x<-'@'
+      n<-valor ascii (x)
+    escriba "elcaracter ascii de",x,"es:"n,
+fin 
+       entero
+       cadena n [15]x
+    
+inicio
+    
+       x<-"victor peralta"
+       h<-logitud (x)
+    
+   escriba"la longitud en caracteres de"
+       x "es:",x
+fin
+    real r
+
+inicio
+llamar inicializar aleatorio ( )
+
+     repita
+       
+       r<-aleatorio ( ) *10
+    escriba "el numero generado es:",r
+       llamar nueva_linea
+       hasta r=o
+       
+fin
+
+
+      caracter resp  
+         real nota
+         entero gana,pierde
+inicio
+       gana<-0
+       pierde<-0
+    escriba "ingrese la nota"
+      lea nota
+  si
+      (nota>=60)metros entonces
+      gana <-gana+1
+sino
+      pierde <-pierde+1
+fin si
+
+   repita
+     
+     escriba "desea continuar?s/n"
+        lea resp
+        hasta (resp='n')o(resp='n')
+        hasta(resp='n'
+    escriba "total aprobados",gana
+       llamar nueva_linea
+    escriba "total perdedores pierde",pierde       
+fin
+
+       
+       
+       
+       
+       
+       
+       
+        
+   
